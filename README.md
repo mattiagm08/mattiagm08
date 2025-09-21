@@ -25,13 +25,3 @@ My projects reflect curiosity, innovation, and a drive to push boundaries in sof
 
 ---
 
-## 🔭 Personal Projects
-
-### EyesConnect  
-App for video surveillance, personal security, and Peer-to-Peer connections.  
-
-### Trend Analyzer  
-Platform for advanced trend analysis and next-generation reporting.  
-
-### NVision Insights  
-Corporate website featuring tech articles and innovative solutions.  
